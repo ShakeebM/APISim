@@ -7,5 +7,51 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "user": {
+    "user_id": 2,
+        "user_email": "meow@meow.mew",
+        "user_role": null,
+        "is_banned": 0,
+        "have_subscriptions": 1,
+        "profile": {
+            "profile_id": 2,
+            "profile_full_name": "Mikes",
+            "profile_company_name": null,
+            "profile_business_url": null,
+            "profile_description": null,
+            "profile_country": "US",
+            "profile_currency": null,
+            "profile_fb_url": null,
+            "profile_twitter_url": null,
+            "profile_picture_url": "uploads/profile_pictures/2020/05/39b121aefd9197b34dd0c4daad566f98",
+            "profile_slug": "basilmnm",
+            "profile_work": "Artist",
+            "profile_picture_extension": ".png",
+            "profile_is_verified": 0
+        },
+        "project": {
+            "project_id": 2,
+            "project_editor_name": "basilmnm",
+            "project_description": null,
+            "project_description_small": "Hey 👋 I just create<a target=\"_blank\" rel=\"nofollow noopener\" href=\"http://localhost/buymeacoffee/basilmnms\">d a page here. Yso</a>u can now buy me a cosffee!",
+            "project_slider_image": "",
+            "project_coffee_price": "3.0000",
+            "project_slug": "meow",
+            "project_website": "http://www.techtraverse.com",
+            "project_is_active": 1,
+            "project_is_featured": null,
+            "project_video_url": "",
+            "featured_content": 1,
+            "project_initial_slug": "basilmnm",
+            "project_tag_alternative": "book",
+            "notification_status": 1,
+            "project_links": "a:1:{i:0;s:24:\"https://www.youtube.com/\";}",
+            "project_currency": "USD",
+            "project_tag_emoji": "📖",
+            "project_cover_image": "uploads/cover_images/2020/11/5f891da8ba4f13851a7ed76ab2ace5d3.jpg",
+            "project_video_thumbnail": "",
+            "project_twitter_handle": ""
+        } 
   }
 }
